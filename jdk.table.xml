@@ -1,21 +1,661 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.6" />
+      <name value="Python 2.7.12 (C:\cygwin64\bin\python2.7.exe)" />
       <type value="Python SDK" />
-      <version value="Python 3.6.5" />
-      <homePath value="C:\ProgramData\Anaconda3\python.exe" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\cygwin64\bin\python2.7.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://C:/ProgramData/Anaconda3/DLLs" type="simple" />
-            <root url="file://C:/ProgramData/Anaconda3/Lib" type="simple" />
-            <root url="file://C:/ProgramData/Anaconda3" type="simple" />
-            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages" type="simple" />
-            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/win32" type="simple" />
-            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
-            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-313451744" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 (C:\Users\Azathoth\AppData\Local\Programs\Python\Python35\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\Users\Azathoth\AppData\Local\Programs\Python\Python35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-516864275" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 Docker (azathoth/scipy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="docker://azathoth/scipy/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/-1380092122" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/-605128487" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/955979724" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/1108198909" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/cycler-0.10.0-py3.5.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/setuptools-27.2.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-207237737" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/scipy" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.2">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/-1380092122" remote-root="/home/jovyan/pgmpy" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/-605128487" remote-root="/opt/conda/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/955979724" remote-root="/opt/conda/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/1108198909" remote-root="/opt/conda/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/cycler-0.10.0-py3.5.egg" remote-root="/opt/conda/lib/python3.5/site-packages/cycler-0.10.0-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-207237737/setuptools-27.2.0-py3.5.egg" remote-root="/opt/conda/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 Docker (azathoth/extract-smop)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="docker://azathoth/extract-smop/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/smop-0.0.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/-890935496" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/-487397910" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/1220995648" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/249572967" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/673165940" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/726551399" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/-183260405" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-2124205734" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/extract-smop" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.13">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/249572967" remote-root="/usr/local/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/673165940" remote-root="/usr/local/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/726551399" remote-root="/usr/local/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/-183260405" remote-root="/usr/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/smop-0.0.0-py2.7.egg" remote-root="/usr/local/lib/python2.7/site-packages/smop-0.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/-890935496" remote-root="/usr/local/lib/python2.7/site-packages/networkx-1.11-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/-487397910" remote-root="/usr/local/lib/python2.7/site-packages/ply-3.10-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2124205734/1220995648" remote-root="/usr/local/lib/python2.7/site-packages/decorator-4.1.1-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 Docker (flask:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="docker://flask:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/1496978" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/198142865" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-2006297032" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-1485014157" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1252699805" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="flask:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-559676334" remote-root="/usr/local/lib/python3.5/site-packages/alembic-0.9.3-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-1984355985" remote-root="/usr/local/lib/python3.5/site-packages/SQLAlchemy-1.2.0b1-py3.5-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/198142865" remote-root="/usr/local/lib/python3.5/site-packages/psycopg2-2.7.1-py3.5-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-2006297032" remote-root="/usr/local/lib/python3.5/site-packages/cssutils-1.0.2-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-1485014157" remote-root="/usr/local/lib/python3.5/site-packages/Flask_Assets-0.12-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/iso8601-0.1.11-py3.5.egg" remote-root="/usr/local/lib/python3.5/site-packages/iso8601-0.1.11-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/497005344" remote-root="/usr/local/lib/python3.5/site-packages/WTForms_Alchemy-0.16.2-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-1104196940" remote-root="/usr/local/lib/python3.5/site-packages/Flask_Mail-0.9.1-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/571005781" remote-root="/usr/local/lib/python3.5/site-packages/Flask_WTF-0.14.2-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-1845630008" remote-root="/usr/local/lib/python3.5/site-packages/Flask_SQLAlchemy-2.2-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/268386270" remote-root="/usr/local/lib/python3.5/site-packages/Flask_Login-0.4.0-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-1686364497" remote-root="/usr/local/lib/python3.5/site-packages/Flask_Bootstrap-3.3.7.1-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-398046278" remote-root="/usr/local/lib/python3.5/site-packages/Flask_BabelEx-0.9.3-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/python_dateutil-2.6.1-py3.5.egg" remote-root="/usr/local/lib/python3.5/site-packages/python_dateutil-2.6.1-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/python_editor-1.0.3-py3.5.egg" remote-root="/usr/local/lib/python3.5/site-packages/python_editor-1.0.3-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-272802809" remote-root="/usr/local/lib/python3.5/site-packages/Mako-1.0.7-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/1339385240" remote-root="/usr/local/lib/python3.5/site-packages/webassets-0.12.1-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-88003127" remote-root="/usr/local/lib/python3.5/site-packages/six-1.10.0-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-884109812" remote-root="/usr/local/lib/python3.5/site-packages/SQLAlchemy_Utils-0.32.14-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/629412226" remote-root="/usr/local/lib/python3.5/site-packages/WTForms_Components-0.10.3-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/1052476880" remote-root="/usr/local/lib/python3.5/site-packages/WTForms-2.1-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/blinker-1.4-py3.5.egg" remote-root="/usr/local/lib/python3.5/site-packages/blinker-1.4-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/visitor-0.1.3-py3.5.egg" remote-root="/usr/local/lib/python3.5/site-packages/visitor-0.1.3-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/dominate-2.3.1-py3.5.egg" remote-root="/usr/local/lib/python3.5/site-packages/dominate-2.3.1-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-7910621" remote-root="/usr/local/lib/python3.5/site-packages/speaklater-1.3-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-617767283" remote-root="/usr/local/lib/python3.5/site-packages/Babel-2.4.0-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-1350838509" remote-root="/usr/local/lib/python3.5/site-packages/intervals-0.8.0-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/1357638627" remote-root="/usr/local/lib/python3.5/site-packages/validators-0.12.0-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/pytz-2017.2-py3.5.egg" remote-root="/usr/local/lib/python3.5/site-packages/pytz-2017.2-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/1305534162" remote-root="/usr/local/lib/python3.5/site-packages/infinity-1.4-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/1234308926" remote-root="/usr/local/lib/python3.5/site-packages/decorator-4.1.1-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/1496978" remote-root="/app" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/-1845054326" remote-root="/usr/local/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/249573926" remote-root="/usr/local/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1252699805/643464287" remote-root="/usr/local/lib/python3.5/plat-linux" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.3 Docker (azathoth/extract)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="docker://azathoth/extract/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/1127008392/249573926" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/1127008392/643464287" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/1127008392/-1845054326" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1127008392" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/extract" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1127008392/249573926" remote-root="/usr/local/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1127008392/643464287" remote-root="/usr/local/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1127008392/-1845054326" remote-root="/usr/local/lib/python3.5/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 Docker (azathoth/gan:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="docker://azathoth/gan:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1393990384/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1393990384/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1393990384/1405239563" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1393990384/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1393990384" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/gan:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.2">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1393990384/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1393990384/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1393990384/1405239563" remote-root="/usr/local/lib/python3.5/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1393990384/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.3 Docker (azathoth/pyall)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="docker://azathoth/pyall/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/1852550593/249573926" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/1852550593/643464287" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/1852550593/-1845054326" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1852550593" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/pyall" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/1852550593/249573926" remote-root="/usr/local/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/1852550593/643464287" remote-root="/usr/local/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/1852550593/-1845054326" remote-root="/usr/local/lib/python3.5/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.14 Docker (azathoth/vrep-python-client:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14" />
+      <homePath value="docker://azathoth/vrep-python-client:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1736261170" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/vrep-python-client:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.14">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-1736261170/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.3 (sftp://racinmat@boruvka.felk.cvut.cz:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="sftp://racinmat@boruvka.felk.cvut.cz:22/mnt/home.stud/racinmat/python35/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-360403396/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-360403396/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-360403396/1405239563" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-360403396/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/1481821872" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/-2120266578" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/-1862297708" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/1481821872" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/-2120266578" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/-1862297708" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-109275471" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="6668e834-076d-4d90-b972-c8fb7cfecc51" WEB_SERVER_CONFIG_NAME="boruvka.felk.cvut.cz" WEB_SERVER_CREDENTIALS_ID="sftp://racinmat@boruvka.felk.cvut.cz:22" INTERPRETER_PATH="/mnt/home.stud/racinmat/python35/bin/python" HELPERS_PATH="/mnt/home.stud/racinmat/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-360403396/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-360403396/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-360403396/1405239563" remote-root="/usr/local/lib/python3.5/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-360403396/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/1481821872" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/-2120266578" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-109275471/-1862297708" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/1481821872" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/-2120266578" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-109275471/-1862297708" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.12 Docker (azathoth/vrep-python-client-ompl:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="docker://azathoth/vrep-python-client-ompl:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-849094835" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/vrep-python-client-ompl:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.12">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-849094835/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.3 (sftp://racinmat@goedel.felk.cvut.cz:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="sftp://racinmat@goedel.felk.cvut.cz:22/mnt/home.stud/racinmat/python35/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/460541578/201545289" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/460541578/-792384633" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/460541578/-102312246" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/460541578/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/261968079" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/1899879821" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/201545289" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/-792384633" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/206600051" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/261968079" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/1899879821" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/201545289" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/-792384633" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/206600051" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/-1475810605" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/1481821872" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/-2120266578" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/-1862297708" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/168016305" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/1481821872" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/-2120266578" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/-1862297708" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/168016305" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/1481821872" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/-2120266578" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/-1862297708" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/168016305" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1474677341" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="e1fc89b5-0099-412f-ac4f-9dc1537c1278" WEB_SERVER_CONFIG_NAME="goedel.felk.cvut.cz" WEB_SERVER_CREDENTIALS_ID="sftp://racinmat@goedel.felk.cvut.cz:22" INTERPRETER_PATH="/mnt/home.stud/racinmat/python35/bin/python" HELPERS_PATH="/mnt/home.stud/racinmat/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/460541578/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/460541578/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/460541578/-102312246" remote-root="/usr/local/lib/python3.4/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/460541578/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/261968079" remote-root="/mnt/home.stud/racinmat/gan2/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/1899879821" remote-root="/mnt/home.stud/racinmat/gan2/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/1269050627/206600051" remote-root="/mnt/home.stud/racinmat/gan2/lib/python3.4/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/261968079" remote-root="/mnt/home.stud/racinmat/gan2/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/1899879821" remote-root="/mnt/home.stud/racinmat/gan2/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/206600051" remote-root="/mnt/home.stud/racinmat/gan2/lib/python3.4/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1269050627/-1475810605" remote-root="/mnt/home.stud/racinmat/gan2/lib/python3.4/site-packages/voxel_map-0.0.0-py3.4-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/1481821872" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/-2120266578" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/-1862297708" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1474677341/168016305" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/site-packages/voxel_map-0.0.0-py3.5-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/1481821872" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/-2120266578" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/-1862297708" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1474677341/168016305" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/site-packages/voxel_map-0.0.0-py3.5-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/1481821872" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/-2120266578" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/-1862297708" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1474677341/168016305" remote-root="/mnt/home.stud/racinmat/python35/lib/python3.5/site-packages/voxel_map-0.0.0-py3.5-linux-x86_64.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.12 Docker (azathoth/vrep-python-client-ompl-ode:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="docker://azathoth/vrep-python-client-ompl-ode:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-244562320" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/vrep-python-client-ompl-ode:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.12">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-244562320/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.12 Docker (azathoth/lkh:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="docker://azathoth/lkh:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-188159931" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="azathoth/lkh:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-188159931/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\Azathoth\AppData\Local\Programs\Python\Python36\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/voxel_map-0.0.0-py3.6-win-amd64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-387781556" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
@@ -29,6 +669,40 @@
         </sourcePath>
       </roots>
       <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.3 (sftp://racinmat@knuth.felk.cvut.cz:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <homePath value="sftp://racinmat@knuth.felk.cvut.cz:22/home.others/eb/easybuild/software/Python/3.6.4-foss-2018a/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1060697818/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1060697818/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1060697818/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-2137074727" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="f1d88841-6994-4d3c-89b2-a668856e7c3c" WEB_SERVER_CONFIG_NAME="knuth.felk.cvut.cz" WEB_SERVER_CREDENTIALS_ID="sftp://racinmat@knuth.felk.cvut.cz:22" INTERPRETER_PATH="/home.others/eb/easybuild/software/Python/3.6.4-foss-2018a/bin/python3" HELPERS_PATH="/mnt/home.stud/racinmat/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1060697818/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1060697818/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1060697818/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
     </jdk>
   </component>
 </application>
