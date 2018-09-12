@@ -5,9 +5,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CopyPaths" />
+  <action id="DatabaseView.SqlGenerator" />
   <action id="ExpressionTypeInfo" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="IntroduceConstant" />
   <action id="IntroduceField" />
 </keymap>
