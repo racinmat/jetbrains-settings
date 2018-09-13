@@ -15,4 +15,5 @@
   </action>
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
+  <action id="IntroduceVariable" />
 </keymap>
