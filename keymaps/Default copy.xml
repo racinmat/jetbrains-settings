@@ -15,6 +15,7 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorNextWordWithSelection" />
+  <action id="GotoCustomRegion" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
