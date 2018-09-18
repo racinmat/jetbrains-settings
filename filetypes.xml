@@ -15,21 +15,20 @@
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping pattern="untitled" type="PLAIN_TEXT" />
       <mapping pattern=".theanorc" type="PLAIN_TEXT" />
       <mapping pattern="run-tensorboard" type="PLAIN_TEXT" />
       <mapping pattern="pub_1" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="numberlink" type="PLAIN_TEXT" />
-      <mapping pattern="LUp-fof" type="PLAIN_TEXT" />
       <mapping pattern="lp_task" type="PLAIN_TEXT" />
+      <mapping pattern="LUp-fof" type="PLAIN_TEXT" />
       <mapping pattern="cores2" type="PLAIN_TEXT" />
       <mapping pattern="backup" type="PLAIN_TEXT" />
-      <mapping pattern="untitled" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping ext="ply" type="PLAIN_TEXT" />
       <mapping ext="square" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
@@ -40,12 +39,14 @@
       <mapping ext="ttt" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="e4188388" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="translated-with-model-iter235000" type="PLAIN_TEXT" />
       <mapping ext="conllu" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="o4188388" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
