@@ -27,6 +27,7 @@
   </action>
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
+  <action id="Inline" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
