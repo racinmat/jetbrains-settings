@@ -31,7 +31,9 @@
   <action id="Inline" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
-  <action id="IntroduceVariable" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
