@@ -25,4 +25,8 @@
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
+  <action id="RunJsbtTask" />
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
 </keymap>
