@@ -1,8 +1,28 @@
-<keymap version="1" name="Default copy">
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="CopyPaths" />
+  <action id="DatabaseView.SqlGenerator" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="ExpressionTypeInfo" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
+  <action id="IntroduceVariable" />
 </keymap>
