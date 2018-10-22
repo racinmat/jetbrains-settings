@@ -36,4 +36,8 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="RunJsbtTask" />
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
 </keymap>
