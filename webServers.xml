@@ -4,7 +4,7 @@
       <webServer id="fe251c9a-1c74-49fa-9623-3bd5522ec7ec" name="DL_rig" url="http://100.65.147.45">
         <fileTransfer host="100.65.147.45" port="22" accessType="SFTP">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
