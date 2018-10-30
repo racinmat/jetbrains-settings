@@ -33,6 +33,7 @@
       <mapping ext="ply" type="PLAIN_TEXT" />
       <mapping ext="square" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
+      <mapping ext="record" type="PLAIN_TEXT" />
       <mapping ext="flagfile" type="PLAIN_TEXT" />
       <mapping ext="perl" type="PLAIN_TEXT" />
       <mapping ext="csv&#13;" type="PLAIN_TEXT" />
