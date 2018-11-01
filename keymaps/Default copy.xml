@@ -39,7 +39,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="RunJsbtTask" />
+  <action id="ShowExecutionPoint" />
   <action id="WebDeployment.BrowseServers">
     <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt f10" />
   </action>
 </keymap>
