@@ -11,6 +11,7 @@
       <mapping pattern="backup2" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".theanorc-old" type="PLAIN_TEXT" />
+      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern="python3" type="PLAIN_TEXT" />
       <mapping pattern="cddata" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
@@ -21,18 +22,18 @@
       <mapping pattern="run-tensorboard" type="PLAIN_TEXT" />
       <mapping pattern="pub_1" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
-      <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="numberlink" type="PLAIN_TEXT" />
       <mapping pattern="lp_task" type="PLAIN_TEXT" />
       <mapping pattern="LUp-fof" type="PLAIN_TEXT" />
       <mapping pattern="cores2" type="PLAIN_TEXT" />
       <mapping pattern="backup" type="PLAIN_TEXT" />
-      <mapping pattern="" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="ply" type="PLAIN_TEXT" />
       <mapping ext="square" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
+      <mapping ext="record" type="PLAIN_TEXT" />
       <mapping ext="flagfile" type="PLAIN_TEXT" />
       <mapping ext="perl" type="PLAIN_TEXT" />
       <mapping ext="csv&#13;" type="PLAIN_TEXT" />
@@ -41,7 +42,6 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="e4188388" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="translated-with-model-iter235000" type="PLAIN_TEXT" />
@@ -56,6 +56,7 @@
       <mapping ext="letter" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="inc" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PROTO" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
