@@ -81,6 +81,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="403f0f94-5391-4d64-ab53-5c9140a9b5fe" name="stgobain-dlrig-images" url="http://100.65.147.45">
+        <fileTransfer host="100.65.147.45" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
