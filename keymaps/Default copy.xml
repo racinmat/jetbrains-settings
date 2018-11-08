@@ -12,7 +12,6 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
-  <action id="Console.TableResult.PreviousPage" />
   <action id="CopyPaths" />
   <action id="DatabaseView.SqlGenerator" />
   <action id="Editor Redo">
@@ -20,9 +19,6 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="ExpressionTypeInfo" />
-  <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
-  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
@@ -32,22 +28,5 @@
   </action>
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
-  <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="alt v" />
-  </action>
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
-  <action id="PreviousOccurence" />
-  <action id="PublishGroup.Upload">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="RunJsbtTask" />
-  <action id="ShowExecutionPoint" />
-  <action id="WebDeployment.BrowseServers">
-    <keyboard-shortcut first-keystroke="alt f11" />
-  </action>
-  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
-    <keyboard-shortcut first-keystroke="alt f10" />
-  </action>
+  <action id="IntroduceVariable" />
 </keymap>
