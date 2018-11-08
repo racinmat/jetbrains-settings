@@ -118,10 +118,6 @@
           <option name="url" value="https://github.com/racinmat/KITTI-GAN.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://f4t-ds.visualstudio.com/Saint-Gobain/_git/integration" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\projects" />
