@@ -30,6 +30,7 @@
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
+  <action id="Inline" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
