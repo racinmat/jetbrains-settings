@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fe251c9a-1c74-49fa-9623-3bd5522ec7ec" name="DL_rig" url="http://100.65.147.45">
-        <fileTransfer host="100.65.147.45" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="e1fc89b5-0099-412f-ac4f-9dc1537c1278" name="goedel.felk.cvut.cz" url="http://goedel.felk.cvut.cz">
         <fileTransfer host="goedel.felk.cvut.cz" port="22" privateKey="E:\Projects\GANy\.ssh\id_rsa" rootFolder="/home.stud/racinmat" accessType="SFTP" keyPair="true">
           <advancedOptions>
@@ -89,7 +81,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="450b40c9-dedb-4416-8a3b-d59e170958b2" name="DL_rig_AD" url="http://100.65.147.45">
+      <webServer id="450b40c9-dedb-4416-8a3b-d59e170958b2" name="DL_rig" url="http://100.65.147.45">
         <fileTransfer host="100.65.147.45" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" shareSSLContext="true" />
