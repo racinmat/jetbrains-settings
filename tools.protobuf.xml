@@ -1,0 +1,9 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="D:/projects/models/research/object_detection/protos" />
+      </list>
+    </option>
+  </component>
+</application>
