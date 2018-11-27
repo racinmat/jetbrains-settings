@@ -89,6 +89,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ee379a6a-ec94-4f58-809c-064dfa7e0309" name="DL_rig_geoffray" url="http://100.65.147.45">
+        <fileTransfer host="100.65.147.45" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
