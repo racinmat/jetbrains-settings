@@ -15,6 +15,7 @@
   <action id="Console.TableResult.PreviousPage" />
   <action id="CopyPaths" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="Django.RunManageTaskAction" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -22,6 +23,10 @@
   <action id="ExpressionTypeInfo" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
