@@ -126,6 +126,10 @@
           <option name="url" value="https://github.com/racinmat/google-speech-to-text.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/racinmat/advent_of_code_2018.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\projects" />
