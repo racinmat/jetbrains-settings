@@ -146,6 +146,10 @@
           <option name="url" value="https://github.com/racinmat/lecture-generator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/racinmat/jetbrains-settings.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\projekty" />
