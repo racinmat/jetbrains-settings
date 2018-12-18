@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Kurocon/AdventOfCode2018.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NickUK/advent-of-code-2018.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Projects\others-AdventOfCode2018" />
+    <option name="cloneParentDir" value="D:\projects" />
   </component>
 </application>
