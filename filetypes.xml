@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="nvidia-users" type="Bash" />
       <mapping pattern="Dockerfile-*" type="Dockerfile" />
       <mapping ext="415516" type="Image" />
       <mapping pattern=".pylintrc" type="Ini" />
@@ -27,7 +28,6 @@
       <mapping pattern="backup" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping ext="ply" type="PLAIN_TEXT" />
       <mapping ext="square" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
@@ -38,6 +38,7 @@
       <mapping ext="score" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
       <mapping ext="e4188388" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="ttt" type="PLAIN_TEXT" />
@@ -45,9 +46,10 @@
       <mapping ext="conllu" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
-      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="o4188388" type="PLAIN_TEXT" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="letter" type="PLAIN_TEXT" />
@@ -56,7 +58,6 @@
       <mapping ext="inc" type="PLAIN_TEXT" />
       <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping ext="config" type="PROTO" />
-      <mapping pattern="nvidia-users" type="Bash" />
     </extensionMap>
   </component>
 </application>
