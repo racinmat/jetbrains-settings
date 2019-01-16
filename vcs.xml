@@ -6,6 +6,10 @@
           <option name="url" value="https://f4t-ds@dev.azure.com/f4t-ds/Saint-Gobain/_git/Saint-Gobain" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gsuitedevs/python-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Projects" />
