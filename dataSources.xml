@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="L5 data - postgres" uuid="669d8ae9-c295-41a4-ac13-c7b8f3636f4a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://100.67.70.11:15432/fox_cz_sensor_data</jdbc-url>
+    </data-source>
+  </component>
+</application>
