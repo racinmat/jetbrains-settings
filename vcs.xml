@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/carpedm20/DCGAN-tensorflow.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/automl/auto-sklearn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Projects" />
+    <option name="cloneParentDir" value="E:\Projects\others_code" />
   </component>
 </application>
