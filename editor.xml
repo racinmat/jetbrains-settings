@@ -1,6 +1,9 @@
 <application>
   <component name="EditorSettings">
-    <option name="STRIP_TRAILING_SPACES" value="None" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Python" value="true" />
+      </map>
+    </option>
   </component>
 </application>
