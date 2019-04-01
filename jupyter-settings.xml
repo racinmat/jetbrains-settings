@@ -5,9 +5,7 @@
         <entry key="D:/projects/L5-analysis/.idea/L5-analysis.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
-              <option name="token" value="ed56502453cd62621b2c7f6b05d6bfd11288886a6b848ce3" />
-              <option name="urlString" value="http://localhost:8888" />
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
