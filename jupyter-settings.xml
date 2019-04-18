@@ -11,6 +11,15 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="D:/projects/fe_simulations/.idea/fe_simulations.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="9a6bbfea89d64de6dee69ebb572affac404d0b0e3a2a77c0" />
+              <option name="urlString" value="http://localhost:8888" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
