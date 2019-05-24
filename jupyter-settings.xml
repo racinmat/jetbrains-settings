@@ -1,0 +1,26 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="D:/projects/L5-analysis/.idea/L5-analysis.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="9d4855f56962a57cad9be99819a5b441a6e7a747706ed3a7" />
+              <option name="urlString" value="http://100.65.147.45:8889" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="D:/projects/fe_simulations/.idea/fe_simulations.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="a135931dbdd237047667fcf8f9f3ed8d5de96b2016eeabbe" />
+              <option name="urlString" value="http://localhost:8888" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
