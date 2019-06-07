@@ -1,0 +1,5 @@
+<templateSet group="Python">
+  <template name="dbgplot" value="import matplotlib.pyplot as plt; $VAR$.plot(figsize=(20, 7)); plt.show()" description="Prepares standalone plotting to expressino evaluation" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
