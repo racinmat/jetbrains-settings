@@ -20,6 +20,15 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="E:/Projects/fb-downloader-conversions/.idea/fb-downloader-conversions.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="" />
+              <option name="urlString" value="http://localhost:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
