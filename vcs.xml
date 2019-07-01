@@ -3,16 +3,8 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/racinmat/ahegao.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/racinmat/codewars-excercises.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/BTNC/distro-win.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="racinmat" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://dev.azure.com" />
@@ -36,6 +28,5 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\projects" />
   </component>
 </application>
