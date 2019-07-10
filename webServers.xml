@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="3b779322-b99f-427f-826b-d993a644a29c" name="drc-hal9000" url="http://100.65.132.178">
+        <fileTransfer host="100.65.132.178" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="86536298-496b-41d0-a89d-42ee7fabdb20" name="drc-beryllium" url="http://100.65.132.129">
+        <fileTransfer host="100.65.132.129" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="e1fc89b5-0099-412f-ac4f-9dc1537c1278" name="goedel.felk.cvut.cz" url="http://goedel.felk.cvut.cz">
         <fileTransfer host="goedel.felk.cvut.cz" port="22" privateKey="E:\Projects\GANy\.ssh\id_rsa" rootFolder="/home.stud/racinmat" accessType="SFTP" keyPair="true">
           <advancedOptions>
