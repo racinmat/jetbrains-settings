@@ -26,7 +26,12 @@
           <option name="url" value="https://github.com/sedlakovi/maps-pycon-2019.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.foxconndrc.com/transactive-grid/data-science-eda.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\projects" />
   </component>
 </application>
