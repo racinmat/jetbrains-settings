@@ -15,8 +15,8 @@
           <value>
             <JupyterConnectionParameters>
               <option name="readOnly" value="true" />
-              <option name="token" value="a135931dbdd237047667fcf8f9f3ed8d5de96b2016eeabbe" />
-              <option name="urlString" value="http://localhost:8888" />
+              <option name="token" value="a362185ea03515afc990d2bd4f3a2c9e76f9e0c121d795f9" />
+              <option name="urlString" value="http://localhost:8888/" />
             </JupyterConnectionParameters>
           </value>
         </entry>

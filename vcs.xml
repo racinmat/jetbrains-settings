@@ -14,7 +14,24 @@
           <option name="url" value="http://f4t-ds.visualstudio.com" />
           <option name="userName" value="matej.racinsky@foxconn4tech.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.foxconndrc.com" />
+          <option name="userName" value="mracinsky" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="racinmat" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sedlakovi/maps-pycon-2019.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.foxconndrc.com/transactive-grid/data-science-eda.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\projects" />
   </component>
 </application>
