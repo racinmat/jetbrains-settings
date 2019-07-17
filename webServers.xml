@@ -113,6 +113,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4705d324-82b6-42b7-a15d-6c434d9bda24" name="DL_rig_ds drc" url="http://100.65.132.45">
+        <fileTransfer host="100.65.132.45" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
