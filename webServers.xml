@@ -121,6 +121,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="31205491-a440-4a8e-964a-b8412cfd6378" name="DL_rig_ds_ drc dns" url="http://DLRig">
+        <fileTransfer host="DLRig" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
