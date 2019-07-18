@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="our postgres DLRig" uuid="a8cb72c4-5e80-4fe5-bd07-7214d7a58922">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://100.65.132.45:5432/postgres</jdbc-url>
+    </data-source>
+  </component>
+</application>
