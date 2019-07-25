@@ -5,6 +5,7 @@
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://100.65.132.45:5432/postgres</jdbc-url>
+      <time-zone>CEST</time-zone>
     </data-source>
   </component>
 </application>
