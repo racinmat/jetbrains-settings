@@ -1,78 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="Dockerfile-*" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping ext="415516" type="Image" />
-      <mapping pattern=".pylintrc" type="Ini" />
-      <mapping ext="geojson" type="JSON" />
-      <mapping pattern="screenlog.*" type="PLAIN_TEXT" />
-      <mapping pattern=".theanorc-old" type="PLAIN_TEXT" />
-      <mapping pattern="backup" type="PLAIN_TEXT" />
-      <mapping pattern="pub_1" type="PLAIN_TEXT" />
-      <mapping pattern="numberlink" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="cores2" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
-      <mapping pattern=".theanorc" type="PLAIN_TEXT" />
-      <mapping pattern="cddata" type="PLAIN_TEXT" />
-      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
-      <mapping pattern="run-tensorboard" type="PLAIN_TEXT" />
-      <mapping pattern="lp_task" type="PLAIN_TEXT" />
-      <mapping pattern="python3" type="PLAIN_TEXT" />
-      <mapping pattern="backup2" type="PLAIN_TEXT" />
-      <mapping pattern="checkpoint" type="PLAIN_TEXT" />
-      <mapping pattern=".pgpass" type="PLAIN_TEXT" />
-      <mapping pattern="LUp-fof" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern=".python_history" type="PLAIN_TEXT" />
-      <mapping pattern="untitled" type="PLAIN_TEXT" />
-      <mapping ext="o4188388" type="PLAIN_TEXT" />
-      <mapping ext="translated-with-model-iter235000" type="PLAIN_TEXT" />
-      <mapping ext="srt" type="PLAIN_TEXT" />
-      <mapping ext="record" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="pyd" type="PLAIN_TEXT" />
-      <mapping ext="letter" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="score" type="PLAIN_TEXT" />
-      <mapping ext="ply" type="PLAIN_TEXT" />
-      <mapping ext="conllu" type="PLAIN_TEXT" />
-      <mapping ext="square" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="pbtxt" type="PLAIN_TEXT" />
-      <mapping ext="inc" type="PLAIN_TEXT" />
-      <mapping ext="perl" type="PLAIN_TEXT" />
-      <mapping ext="cache" type="PLAIN_TEXT" />
-      <mapping ext="flagfile" type="PLAIN_TEXT" />
-      <mapping ext="csv&#13;" type="PLAIN_TEXT" />
-      <mapping ext="pb" type="PLAIN_TEXT" />
-      <mapping ext="e4188388" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="ttt" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="lic" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
-      <mapping ext="dump" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="nginx.conf" type="nginx file type" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="t" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="config" type="PROTO" />
-      <mapping pattern="nvidia-users" type="Bash" />
     </extensionMap>
   </component>
 </application>

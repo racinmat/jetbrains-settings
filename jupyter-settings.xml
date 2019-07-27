@@ -5,7 +5,6 @@
         <entry key="D:/projects/L5-analysis/.idea/L5-analysis.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="9d4855f56962a57cad9be99819a5b441a6e7a747706ed3a7" />
               <option name="urlString" value="http://100.65.147.45:8889" />
             </JupyterConnectionParameters>
@@ -14,7 +13,6 @@
         <entry key="D:/projects/fe_simulations/.idea/fe_simulations.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="a362185ea03515afc990d2bd4f3a2c9e76f9e0c121d795f9" />
               <option name="urlString" value="http://localhost:8888/" />
             </JupyterConnectionParameters>
@@ -23,9 +21,15 @@
         <entry key="E:/Projects/fb-downloader-conversions/.idea/fb-downloader-conversions.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="readOnly" value="true" />
               <option name="token" value="" />
               <option name="urlString" value="http://localhost:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="E:/Projects/mal-analysis/.idea/mal-analysis.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
