@@ -21,8 +21,7 @@
         <entry key="E:/Projects/fb-downloader-conversions/.idea/fb-downloader-conversions.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="" />
-              <option name="urlString" value="http://localhost:8888/" />
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
