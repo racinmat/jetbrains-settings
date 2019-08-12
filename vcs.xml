@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.foxconndrc.com" />
           <option name="userName" value="mracinsky" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="racinmat" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
