@@ -14,7 +14,12 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="racinsky.matej@seznam.cz" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/racinmat/kralupy_coding.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="E:\Projects" />
   </component>
 </application>
