@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".bash_history" type="Bash" />
       <mapping pattern=".condarc" type="Bash" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
