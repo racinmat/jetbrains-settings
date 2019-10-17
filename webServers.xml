@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39db1258-d18f-44c3-870f-55879e2c7252" name="Copy of project-level server 'avast-research-prg07-009'" url="http://prg07-009">
+        <fileTransfer host="prg07-009" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
