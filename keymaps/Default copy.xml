@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="CopyPaths" />
   <action id="DatabaseView.SqlGenerator" />
@@ -42,7 +43,11 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="NextOccurence" />
   <action id="PreviousOccurence" />
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
