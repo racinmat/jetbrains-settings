@@ -1,11 +1,11 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="our postgres DLRig" uuid="a8cb72c4-5e80-4fe5-bd07-7214d7a58922">
+    <data-source source="LOCAL" name="Yagr" uuid="579930d2-d21f-460d-99a4-0a6eccea1964">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
+      <remarks>yara rules aggregator</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://100.65.132.45:5432/postgres</jdbc-url>
-      <time-zone>Europe/Prague</time-zone>
+      <jdbc-url>jdbc:postgresql://pgcluster-prod.ff.int.avast.com:5432/yagr</jdbc-url>
     </data-source>
   </component>
 </application>

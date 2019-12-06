@@ -1,8 +1,24 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="39db1258-d18f-44c3-870f-55879e2c7252" name="Copy of project-level server 'avast-research-prg07-009'" url="http://prg07-009">
-        <fileTransfer host="prg07-009" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+      <webServer id="3636be43-02e2-4e1d-bc9f-f10dec608564" name="avast-burger-prod" url="http://cm-brg.ff.avast.com">
+        <fileTransfer host="cm-brg.ff.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="44e78c44-2233-49e4-b18a-b8acc4fbb314" name="avast-burger-stage" url="http://cm-brg-stage.ff.avast.com">
+        <fileTransfer host="cm-brg-stage.ff.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="73757a9f-e44d-42b4-8222-7a4eb76f23d6" name="avast-research-burger-prg23-018" url="http://prg23-018.ff.avast.com">
+        <fileTransfer host="prg23-018.ff.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -11,6 +27,14 @@
       </webServer>
       <webServer id="1a901a66-ad5e-4c58-a390-fa1db2bd4645" name="avast-research-prg07-009" url="http://prg07-009">
         <fileTransfer host="prg07-009" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="22ab5471-3d12-4d0f-bc5b-10f653f1b7a1" name="avast-research-prg07-002" url="http://prg07-002">
+        <fileTransfer host="prg07-002" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

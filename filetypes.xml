@@ -6,8 +6,19 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="screenlog.*" type="PLAIN_TEXT" />
+      <mapping pattern="51177b153fe5592a35529e45da4c3a9992baecac02cd255654edf0c149c4e482" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
+      <mapping pattern="9289B5293483EDED5DDB177F8D4C6098C2B436A02D9B7CB35276EC5855BA1978" type="PLAIN_TEXT" />
+      <mapping pattern="51177b153fe5592a35529e45da4c3a9992baecac02cd255654edf0c149c4e482-sample" type="PLAIN_TEXT" />
+      <mapping pattern="92aa705c05503723e552434dc984c5782eae3bd45923c09b96befec1336630b9" type="PLAIN_TEXT" />
+      <mapping pattern="92B19F8B3712CF162E47A0B4B8695F9C16F14BCD3701AE7A585D14DCFF83BF19" type="PLAIN_TEXT" />
+      <mapping pattern="929f1d9f8af6449d58cc687b455c1fa4570bfe38905ed4ef2d0ac31bdf2a923b" type="PLAIN_TEXT" />
+      <mapping pattern="92a9d915df330ccf9cc63927c8feaa62dc9a907db4c64470cad9c0ffbc104a0b" type="PLAIN_TEXT" />
+      <mapping pattern="9294e24eb36f7ffddccda7a3ed04032cacf4ff688cb1eb1b7853a0ad2c27396c" type="PLAIN_TEXT" />
+      <mapping pattern="928B66EA90FA9F1861A6B4ED77CB5FCF54610C15AD4B034DCA43E1631F454C8A" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="converted" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
