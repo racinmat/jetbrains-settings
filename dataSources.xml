@@ -7,5 +7,12 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://pgcluster-prod.ff.int.avast.com:5432/yagr</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="XBR database" uuid="f7d93a0a-09d0-4a2c-af94-0ab3da262599">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>https://cml.avast.com/display/TL/4.+Using+the+xBR+database</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://idp-cuckoo-prod-002.brq2.ff.int.avast.com:5432/idp_cuckoo_br</jdbc-url>
+    </data-source>
   </component>
 </application>
