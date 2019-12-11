@@ -3,5 +3,8 @@
     <account id="5a32bdff-7901-4b86-b182-549722c00283" name="racinmat">
       <server useHttp="false" host="github.com" />
     </account>
+    <account id="33ec6574-37b5-4901-a92d-43b2e86b4b5d" name="racinsky">
+      <server host="git.int.avast.com" />
+    </account>
   </component>
 </application>
