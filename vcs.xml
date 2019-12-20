@@ -46,6 +46,10 @@
           <option name="url" value="https://git.int.avast.com/dyna/gvma-gvma-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/danielplohmann/smda.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects\others" />
