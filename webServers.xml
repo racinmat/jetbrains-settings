@@ -129,6 +129,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5c35ea93-8a14-439b-9e65-41211b62ce1f" name="aws-digital-writer" url="http://18.197.57.81">
+        <fileTransfer host="18.197.57.81" port="22" privateKey="E:\Projects\digital_writer\gpt2.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
