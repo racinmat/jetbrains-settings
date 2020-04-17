@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping pattern="Dockerfile_gpu" type="PLAIN_TEXT" />
       <mapping pattern="log_file" type="PLAIN_TEXT" />
-      <mapping ext="converted" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_gpu" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="converted" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
