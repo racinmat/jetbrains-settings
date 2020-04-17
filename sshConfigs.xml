@@ -1,0 +1,23 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="100.65.132.178" id="f6e2ee56-baa4-42c3-8c44-d5b2ed74bf5d" port="2222" customName="drc-hal9000" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="100.65.132.129" id="4ae83907-c8e2-4f2e-981c-23308a20062d" port="22" customName="drc-beryllium" nameFormat="CUSTOM" />
+      <sshConfig host="goedel.felk.cvut.cz" id="82b33c29-fd3d-4bae-b9cb-497b32a29d8a" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="goedel.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
+      <sshConfig host="ptak.felk.cvut.cz" id="d12b5ecd-218c-49cb-824d-047841583fb2" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="CMP.felk.cvut.cz-data" nameFormat="CUSTOM" username="racinmat" />
+      <sshConfig host="boruvka.felk.cvut.cz" id="420061f3-18ab-415d-9079-66a1f0f46e94" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="boruvka.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
+      <sshConfig host="knuth.felk.cvut.cz" id="f485a21c-0b01-4850-9f32-810fecca0ffd" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="knuth.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
+      <sshConfig host="ptak.felk.cvut.cz" id="4840faf8-f294-4545-8291-191e7cde73e8" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="CMP-felk-datasets-GTA" nameFormat="CUSTOM" username="racinmat" />
+      <sshConfig host="ptak.felk.cvut.cz" id="bc9c1a86-be7f-4109-9086-1542cc567bc8" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="ptak.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
+      <sshConfig host="ritz.felk.cvut.cz" id="c64d83a5-cd50-4d32-aadd-e42ad4dfbae3" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="ritz.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
+      <sshConfig host="ptak.felk.cvut.cz" id="890111c1-e39d-458a-96b9-b063a17a4c76" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="CMP-felk-datasets" nameFormat="CUSTOM" username="racinmat" />
+      <sshConfig authType="PASSWORD" host="100.65.147.45" id="44e583bc-1c1b-42cc-8571-30889d2cc1b2" port="22" customName="DL_rig_ds" nameFormat="CUSTOM" username="ds" />
+      <sshConfig authType="PASSWORD" host="100.65.147.45" id="cde35b9e-cd13-4ae7-9dab-99039036f5db" port="22" customName="stgobain-dlrig-images" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="100.65.147.45" id="dc6ad120-e9f5-480b-9acb-c68b1a9aed12" port="22" customName="DL_rig" nameFormat="CUSTOM" username="G4T\mracinsky" />
+      <sshConfig authType="PASSWORD" host="100.65.147.45" id="1082c399-2132-4d52-a12e-c613bac89a51" port="22" customName="DL_rig_geoffray" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="100.65.132.45" id="0596be82-323c-4225-9fe0-5b574b8d94ee" port="22" customName="DL_rig_ds drc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="DLRig" id="f8463c8f-8bb2-4c93-ac31-c861e1434905" port="22" customName="DL_rig_ds_ drc dns" nameFormat="CUSTOM" />
+      <sshConfig host="3.124.192.99" id="fc30a8ea-33db-4de5-ad48-302c0d4238b7" keyPath="E:\Projects\digital_writer\gpt2.pem" port="22" customName="aws-digital-writer" nameFormat="CUSTOM" username="ubuntu" />
+    </configs>
+  </component>
+</application>
