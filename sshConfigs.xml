@@ -24,7 +24,13 @@
       <sshConfig authType="PASSWORD" host="100.65.147.45" id="f123b483-bfa5-420b-98ac-68a64b17b6a9" port="22" customName="DL_rig_geoffray" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="100.65.132.45" id="44cd1e81-f6c5-4a6b-974b-64441416cb33" port="22" customName="DL_rig_ds drc" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="DLRig" id="a65eb64d-0fa2-4753-8381-5959355cdcad" port="22" customName="DL_rig_ds_ drc dns" nameFormat="CUSTOM" />
-      <sshConfig host="3.124.192.99" id="a2fc36ec-40bb-494e-8e29-e8b49b65e048" keyPath="E:\Projects\digital_writer\gpt2.pem" port="22" customName="aws-digital-writer" nameFormat="CUSTOM" username="ubuntu" />
+      <sshConfig authType="PASSWORD" host="100.65.132.178" id="db9262b4-48f0-4008-8906-0f52e86873ec" port="2222" customName="drc-hal9000" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="100.65.132.129" id="3337e182-f670-46a7-a246-177c40e34258" port="22" customName="drc-beryllium" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="100.65.147.45" id="5e7de47b-3f59-4f8f-a9f0-4826cbd46399" port="22" customName="stgobain-dlrig-images" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="100.65.147.45" id="c093b364-4750-491e-a19f-98e9bbd37275" port="22" customName="DL_rig_geoffray" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="100.65.132.45" id="0b9444f1-2797-4ecc-8b52-5df864602179" port="22" customName="DL_rig_ds drc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="DLRig" id="d93c1be6-e09e-4d77-a63b-a04268f4e4cd" port="22" customName="DL_rig_ds_ drc dns" nameFormat="CUSTOM" />
+      <sshConfig host="3.124.192.99" id="47b9ddbc-5a3e-49bf-b986-50c7ff652c56" keyPath="E:\Projects\digital_writer\gpt2.pem" port="22" customName="aws-digital-writer" nameFormat="CUSTOM" username="ubuntu" />
     </configs>
   </component>
 </application>
