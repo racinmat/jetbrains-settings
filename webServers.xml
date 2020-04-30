@@ -1,23 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="3636be43-02e2-4e1d-bc9f-f10dec608564" name="avast-burger-prod" url="http://cm-brg.ff.avast.com">
-        <fileTransfer host="cm-brg.ff.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+      <webServer id="44e78c44-2233-49e4-b18a-b8acc4fbb314" name="burger-stage" url="http://burger-shell-stage.aa.avast.com">
+        <fileTransfer host="burger-shell-stage.aa.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="44e78c44-2233-49e4-b18a-b8acc4fbb314" name="avast-burger-stage" url="http://cm-brg-stage.ff.avast.com">
-        <fileTransfer host="cm-brg-stage.ff.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="73757a9f-e44d-42b4-8222-7a4eb76f23d6" name="avast-research-burger-prg23-018" url="http://prg23-018.ff.avast.com">
+      <webServer id="73757a9f-e44d-42b4-8222-7a4eb76f23d6" name="research-burger-prg23-018" url="http://prg23-018.ff.avast.com">
         <fileTransfer host="prg23-018.ff.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -25,7 +17,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="1a901a66-ad5e-4c58-a390-fa1db2bd4645" name="avast-research-prg07-009" url="http://prg07-009">
+      <webServer id="1a901a66-ad5e-4c58-a390-fa1db2bd4645" name="research-prg07-009" url="http://prg07-009">
         <fileTransfer host="prg07-009" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -33,8 +25,96 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="22ab5471-3d12-4d0f-bc5b-10f653f1b7a1" name="avast-research-prg07-002" url="http://prg07-002">
+      <webServer id="22ab5471-3d12-4d0f-bc5b-10f653f1b7a1" name="research-prg07-002" url="http://prg07-002">
         <fileTransfer host="prg07-002" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2e60687a-d28a-4d10-8172-4b35bb92d1ea" name="research-prg07-012" url="http://prg07-012">
+        <fileTransfer host="prg07-012" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d997b155-fbce-4475-9c3e-d86b7e51ff38" name="research-prg07-006" url="http://prg07-006">
+        <fileTransfer host="prg07-006" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0ffc2e2a-588d-4f2e-a757-e81c2edd2b12" name="tlab-hal-prod-9001" url="http://tlab-hal-prod-9001">
+        <fileTransfer host="tlab-hal-prod-9001" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="67167838-c5bc-4ee7-a1ad-bccde958dfaf" name="tlab-hal-prod-9002" url="http://tlab-hal-prod-9002">
+        <fileTransfer host="tlab-hal-prod-9002" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9da93953-52f6-43a8-a705-05e909d70275" name="burger-prod" url="http://burger-shell.aa.avast.com">
+        <fileTransfer host="burger-shell.aa.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3fb197a7-09b5-4fa1-8dde-be1cc9908d2c" name="burger-hotdog-prod-004" url="http://burger-hotdog-prod-004.brq2.ff.int/">
+        <fileTransfer host="burger-hotdog-prod-004.brq2.ff.int.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e790dc8-9666-42cd-baf7-fb227942c042" name="burger-hotdog-prod-003" url="http://burger-hotdog-prod-004.brq2.ff.int/">
+        <fileTransfer host="burger-hotdog-prod-003.brq2.ff.int.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d2d6a215-55f1-433f-9027-7fd5cdc1a690" name="burger-hotdog-prod-002" url="http://burger-hotdog-prod-004.brq2.ff.int/">
+        <fileTransfer host="burger-hotdog-prod-002.brq2.ff.int.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0b3627cd-5fe7-4fdf-a661-3903dc1fb1dd" name="burger-hotdog-prod-001" url="http://burger-hotdog-prod-004.brq2.ff.int/">
+        <fileTransfer host="burger-hotdog-prod-001.brq2.ff.int.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="118b784e-6347-49d9-b9ae-d723d3e56e7e" name="burger-hotdog-prod-017" url="http://burger-hotdog-prod-004.brq2.ff.int/">
+        <fileTransfer host="burger-hotdog-prod-017.brq2.ff.int.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9aa2bdff-c037-41aa-b1ff-58fffc439c9c" name="burger-hotdog-prod-022" url="http://burger-hotdog-prod-004.brq2.ff.int/">
+        <fileTransfer host="burger-hotdog-prod-022.brq2.ff.int.avast.com" port="22" privateKey="C:\Users\racinsky\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

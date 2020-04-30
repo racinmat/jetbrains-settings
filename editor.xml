@@ -1,6 +1,5 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Consolas" />
   </component>
 </application>
