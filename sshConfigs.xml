@@ -1,42 +1,22 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="100.65.132.178" id="f6e2ee56-baa4-42c3-8c44-d5b2ed74bf5d" port="2222" customName="drc-hal9000" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.129" id="4ae83907-c8e2-4f2e-981c-23308a20062d" port="22" customName="drc-beryllium" nameFormat="CUSTOM" />
-      <sshConfig host="goedel.felk.cvut.cz" id="82b33c29-fd3d-4bae-b9cb-497b32a29d8a" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="goedel.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
-      <sshConfig host="ptak.felk.cvut.cz" id="d12b5ecd-218c-49cb-824d-047841583fb2" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="CMP.felk.cvut.cz-data" nameFormat="CUSTOM" username="racinmat" />
-      <sshConfig host="boruvka.felk.cvut.cz" id="420061f3-18ab-415d-9079-66a1f0f46e94" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="boruvka.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
-      <sshConfig host="knuth.felk.cvut.cz" id="f485a21c-0b01-4850-9f32-810fecca0ffd" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="knuth.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
-      <sshConfig host="ptak.felk.cvut.cz" id="4840faf8-f294-4545-8291-191e7cde73e8" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="CMP-felk-datasets-GTA" nameFormat="CUSTOM" username="racinmat" />
-      <sshConfig host="ptak.felk.cvut.cz" id="bc9c1a86-be7f-4109-9086-1542cc567bc8" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="ptak.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
-      <sshConfig host="ritz.felk.cvut.cz" id="c64d83a5-cd50-4d32-aadd-e42ad4dfbae3" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="ritz.felk.cvut.cz" nameFormat="CUSTOM" username="racinmat" />
-      <sshConfig host="ptak.felk.cvut.cz" id="890111c1-e39d-458a-96b9-b063a17a4c76" keyPath="E:\Projects\GANy\.ssh\id_rsa" port="22" customName="CMP-felk-datasets" nameFormat="CUSTOM" username="racinmat" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="44e583bc-1c1b-42cc-8571-30889d2cc1b2" port="22" customName="DL_rig_ds" nameFormat="CUSTOM" username="ds" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="cde35b9e-cd13-4ae7-9dab-99039036f5db" port="22" customName="stgobain-dlrig-images" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="dc6ad120-e9f5-480b-9acb-c68b1a9aed12" port="22" customName="DL_rig" nameFormat="CUSTOM" username="G4T\mracinsky" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="1082c399-2132-4d52-a12e-c613bac89a51" port="22" customName="DL_rig_geoffray" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.45" id="0596be82-323c-4225-9fe0-5b574b8d94ee" port="22" customName="DL_rig_ds drc" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="DLRig" id="f8463c8f-8bb2-4c93-ac31-c861e1434905" port="22" customName="DL_rig_ds_ drc dns" nameFormat="CUSTOM" />
-      <sshConfig host="3.124.192.99" id="fc30a8ea-33db-4de5-ad48-302c0d4238b7" keyPath="E:\Projects\digital_writer\gpt2.pem" port="22" customName="aws-digital-writer" nameFormat="CUSTOM" username="ubuntu" />
-      <sshConfig authType="PASSWORD" host="100.65.132.178" id="148d7d0b-2928-4318-9558-d6dc786b3bf6" port="2222" customName="drc-hal9000" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.129" id="9ca7ca66-4caf-4d72-a7a7-800542db7ff1" port="22" customName="drc-beryllium" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="4fc5f200-78ca-4b18-b1c1-313bcb2d4d74" port="22" customName="stgobain-dlrig-images" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="f123b483-bfa5-420b-98ac-68a64b17b6a9" port="22" customName="DL_rig_geoffray" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.45" id="44cd1e81-f6c5-4a6b-974b-64441416cb33" port="22" customName="DL_rig_ds drc" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="DLRig" id="a65eb64d-0fa2-4753-8381-5959355cdcad" port="22" customName="DL_rig_ds_ drc dns" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.178" id="db9262b4-48f0-4008-8906-0f52e86873ec" port="2222" customName="drc-hal9000" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.129" id="3337e182-f670-46a7-a246-177c40e34258" port="22" customName="drc-beryllium" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="5e7de47b-3f59-4f8f-a9f0-4826cbd46399" port="22" customName="stgobain-dlrig-images" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="c093b364-4750-491e-a19f-98e9bbd37275" port="22" customName="DL_rig_geoffray" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.45" id="0b9444f1-2797-4ecc-8b52-5df864602179" port="22" customName="DL_rig_ds drc" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="DLRig" id="d93c1be6-e09e-4d77-a63b-a04268f4e4cd" port="22" customName="DL_rig_ds_ drc dns" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.178" id="fb0f431a-3608-4b3c-a212-228707d664b5" port="2222" customName="drc-hal9000" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.129" id="b7c0ca38-7ef9-41b5-b21e-2698879d6f6d" port="22" customName="drc-beryllium" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="be0424ea-a68c-4b7e-a524-8dd99c232683" port="22" customName="stgobain-dlrig-images" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.147.45" id="c9b15aa3-e3c2-4902-a3d3-f01f179b7a72" port="22" customName="DL_rig_geoffray" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="100.65.132.45" id="6e7547c0-fe0a-4d69-9d8e-ebd69dd57d29" port="22" customName="DL_rig_ds drc" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="DLRig" id="c10cd610-908c-4fb3-9f94-db001378463c" port="22" customName="DL_rig_ds_ drc dns" nameFormat="CUSTOM" />
       <sshConfig host="3.124.192.99" id="162bc26e-1a29-4fc2-a692-b5296f77d923" keyPath="E:\Projects\digital_writer\gpt2.pem" port="22" customName="aws-digital-writer" nameFormat="CUSTOM" username="ubuntu" />
+      <sshConfig host="burger-shell-stage.aa.avast.com" id="2537fc5a-94db-4d59-9ba5-47d1682629e8" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-stage" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="prg23-018.ff.avast.com" id="1c9abeb8-61e8-4729-ada7-e720214e4137" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-burger-prg23-018" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="prg07-002" id="0c865367-de37-4805-afb1-8f6b7cc702b3" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-prg07-002" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="prg07-006" id="f1338745-892f-472f-9a8a-ac7f40643c12" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-prg07-006" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="prg07-009" id="cfe1dede-11c2-45b2-8412-5a1736b85bb8" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-prg07-009" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="prg07-012" id="5a4eb1e1-9685-43e4-b30f-bc146e0d9845" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-prg07-012" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="tlab-hal-prod-9001" id="e493258e-98c4-4578-a776-752dc01b0449" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="tlab-hal-prod-9001" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="tlab-hal-prod-9002" id="f808270e-25f1-48d0-891f-f93cee47f4cd" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="tlab-hal-prod-9002" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="burger-shell.aa.avast.com" id="f7f16c3a-7874-4855-b068-62e875e662d6" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-prod" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="burger-hotdog-prod-004.brq2.ff.int.avast.com" id="595e2bdc-1831-4d04-ab83-f90b153075ec" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-004" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="burger-hotdog-prod-003.brq2.ff.int.avast.com" id="f661ded4-e074-433c-b843-b8c90bd29fba" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-003" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="burger-hotdog-prod-002.brq2.ff.int.avast.com" id="edafaccb-bf24-4366-97fc-6223208cbcb5" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-002" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="burger-hotdog-prod-001.brq2.ff.int.avast.com" id="20bb268a-3ae5-4002-b5e9-4c222aba4f11" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-001" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="burger-hotdog-prod-017.brq2.ff.int.avast.com" id="376a843a-394d-4530-a178-1747efb58c14" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-017" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="8d88b5fa-d1c7-4b9b-99a4-4c89d544e62b" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-022" nameFormat="CUSTOM" username="matej.racinsky" />
     </configs>
   </component>
 </application>
