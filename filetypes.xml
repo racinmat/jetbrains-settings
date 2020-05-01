@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern=".screenrc" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa_github_deployment" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
-      <mapping ext="jl" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa_github_deployment" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".screenrc" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_profile" type="Shell Script" />
+      <mapping ext="jl" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="Shell Script" />
+      <mapping pattern=".bash_profile" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
