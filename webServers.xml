@@ -2,112 +2,119 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="44e78c44-2233-49e4-b18a-b8acc4fbb314" name="burger-stage" url="http://burger-shell-stage.aa.avast.com">
-        <fileTransfer accessType="SFTP" sshConfigId="f6dbf114-c294-4fa8-bb74-ae77abc73964" sshConfig="burger-stage">
+        <fileTransfer accessType="SFTP" host="burger-shell-stage.aa.avast.com" port="22" sshConfigId="2537fc5a-94db-4d59-9ba5-47d1682629e8" sshConfig="burger-stage" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="73757a9f-e44d-42b4-8222-7a4eb76f23d6" name="research-burger-prg23-018" url="http://prg23-018.ff.avast.com">
-        <fileTransfer accessType="SFTP" sshConfigId="4a4b33fa-ea2d-41d8-b585-7a0854a69997" sshConfig="research-burger-prg23-018">
+        <fileTransfer accessType="SFTP" host="prg23-018.ff.avast.com" port="22" sshConfigId="1c9abeb8-61e8-4729-ada7-e720214e4137" sshConfig="research-burger-prg23-018" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="1a901a66-ad5e-4c58-a390-fa1db2bd4645" name="research-prg07-009" url="http://prg07-009">
-        <fileTransfer accessType="SFTP" sshConfigId="944bd18c-51f4-4f54-a6cd-1a9fa95b87dc" sshConfig="research-prg07-009">
+        <fileTransfer accessType="SFTP" host="prg07-009" port="22" sshConfigId="cfe1dede-11c2-45b2-8412-5a1736b85bb8" sshConfig="research-prg07-009" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="22ab5471-3d12-4d0f-bc5b-10f653f1b7a1" name="research-prg07-002" url="http://prg07-002">
-        <fileTransfer accessType="SFTP" sshConfigId="6c82fb76-3d17-4b76-9bd8-8513331d36ea" sshConfig="research-prg07-002">
+        <fileTransfer accessType="SFTP" host="prg07-002" port="22" sshConfigId="0c865367-de37-4805-afb1-8f6b7cc702b3" sshConfig="research-prg07-002" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="2e60687a-d28a-4d10-8172-4b35bb92d1ea" name="research-prg07-012" url="http://prg07-012">
-        <fileTransfer accessType="SFTP" sshConfigId="26e921de-8575-41a5-9bd0-d7c42f433800" sshConfig="research-prg07-012">
+        <fileTransfer accessType="SFTP" host="prg07-012" port="22" sshConfigId="5a4eb1e1-9685-43e4-b30f-bc146e0d9845" sshConfig="research-prg07-012" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="d997b155-fbce-4475-9c3e-d86b7e51ff38" name="research-prg07-006" url="http://prg07-006">
-        <fileTransfer accessType="SFTP" sshConfigId="55414b44-cf63-4752-91c9-9167607d3b55" sshConfig="research-prg07-006">
+        <fileTransfer accessType="SFTP" host="prg07-006" port="22" sshConfigId="f1338745-892f-472f-9a8a-ac7f40643c12" sshConfig="research-prg07-006" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="0ffc2e2a-588d-4f2e-a757-e81c2edd2b12" name="tlab-hal-prod-9001" url="http://tlab-hal-prod-9001">
-        <fileTransfer accessType="SFTP" sshConfigId="5cf2e15d-3a2a-435a-b58b-c24db2e5a80a" sshConfig="tlab-hal-prod-9001">
+        <fileTransfer accessType="SFTP" host="tlab-hal-prod-9001" port="22" sshConfigId="e493258e-98c4-4578-a776-752dc01b0449" sshConfig="tlab-hal-prod-9001" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="67167838-c5bc-4ee7-a1ad-bccde958dfaf" name="tlab-hal-prod-9002" url="http://tlab-hal-prod-9002">
-        <fileTransfer accessType="SFTP" sshConfigId="b1ae6a66-b649-45d4-be4d-a61d80c17822" sshConfig="tlab-hal-prod-9002">
+        <fileTransfer accessType="SFTP" host="tlab-hal-prod-9002" port="22" sshConfigId="f808270e-25f1-48d0-891f-f93cee47f4cd" sshConfig="tlab-hal-prod-9002" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="9da93953-52f6-43a8-a705-05e909d70275" name="burger-prod" url="http://burger-shell.aa.avast.com">
-        <fileTransfer accessType="SFTP" sshConfigId="ca3afdea-114f-4591-9840-b3b3df96cacc" sshConfig="burger-prod">
+        <fileTransfer accessType="SFTP" host="burger-shell.aa.avast.com" port="22" sshConfigId="f7f16c3a-7874-4855-b068-62e875e662d6" sshConfig="burger-prod" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="3fb197a7-09b5-4fa1-8dde-be1cc9908d2c" name="burger-hotdog-prod-004" url="http://burger-hotdog-prod-004.brq2.ff.int/">
-        <fileTransfer accessType="SFTP" sshConfigId="20f42abb-ed1c-4d78-8953-8ab597a55d9d" sshConfig="burger-hotdog-prod-004">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-004.brq2.ff.int.avast.com" port="22" sshConfigId="595e2bdc-1831-4d04-ab83-f90b153075ec" sshConfig="burger-hotdog-prod-004" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="4e790dc8-9666-42cd-baf7-fb227942c042" name="burger-hotdog-prod-003" url="http://burger-hotdog-prod-004.brq2.ff.int/">
-        <fileTransfer accessType="SFTP" sshConfigId="2ae0c42a-c314-47ef-95ee-ff561f90e17d" sshConfig="burger-hotdog-prod-003">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-003.brq2.ff.int.avast.com" port="22" sshConfigId="f661ded4-e074-433c-b843-b8c90bd29fba" sshConfig="burger-hotdog-prod-003" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="d2d6a215-55f1-433f-9027-7fd5cdc1a690" name="burger-hotdog-prod-002" url="http://burger-hotdog-prod-004.brq2.ff.int/">
-        <fileTransfer accessType="SFTP" sshConfigId="f7a4fd3b-74dd-4fac-bed4-f24d56b372da" sshConfig="burger-hotdog-prod-002">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-002.brq2.ff.int.avast.com" port="22" sshConfigId="edafaccb-bf24-4366-97fc-6223208cbcb5" sshConfig="burger-hotdog-prod-002" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="0b3627cd-5fe7-4fdf-a661-3903dc1fb1dd" name="burger-hotdog-prod-001" url="http://burger-hotdog-prod-004.brq2.ff.int/">
-        <fileTransfer accessType="SFTP" sshConfigId="37f7d5e3-2ffd-4ea7-8176-23cb2e3d9a5a" sshConfig="burger-hotdog-prod-001">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-001.brq2.ff.int.avast.com" port="22" sshConfigId="20bb268a-3ae5-4002-b5e9-4c222aba4f11" sshConfig="burger-hotdog-prod-001" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="118b784e-6347-49d9-b9ae-d723d3e56e7e" name="burger-hotdog-prod-017" url="http://burger-hotdog-prod-004.brq2.ff.int/">
-        <fileTransfer accessType="SFTP" sshConfigId="40bdba56-c802-48a0-8b4f-b8f305134cf5" sshConfig="burger-hotdog-prod-017">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-017.brq2.ff.int.avast.com" port="22" sshConfigId="376a843a-394d-4530-a178-1747efb58c14" sshConfig="burger-hotdog-prod-017" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="9aa2bdff-c037-41aa-b1ff-58fffc439c9c" name="burger-hotdog-prod-022" url="http://burger-hotdog-prod-004.brq2.ff.int/">
-        <fileTransfer accessType="SFTP" sshConfigId="b332f407-6b56-4448-ba15-9baf83b49767" sshConfig="burger-hotdog-prod-022">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-022.brq2.ff.int.avast.com" port="22" sshConfigId="8d88b5fa-d1c7-4b9b-99a4-4c89d544e62b" sshConfig="burger-hotdog-prod-022" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="5c35ea93-8a14-439b-9e65-41211b62ce1f" name="aws-digital-writer" url="http://3.124.192.99">
-        <fileTransfer accessType="SFTP" sshConfigId="cfc61559-820f-4f1c-adf7-2f643a88ef67" sshConfig="aws-digital-writer">
+        <fileTransfer accessType="SFTP" host="3.124.192.99" port="22" sshConfigId="162bc26e-1a29-4fc2-a692-b5296f77d923" sshConfig="aws-digital-writer" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bebdde7f-bb89-4777-8701-f17c9d746175" name="home-burger-hotdog-prog-022" url="http://burger-hotdog-prod-004.brq2.ff.int/">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-022.brq2.ff.int.avast.com" port="22" sshConfigId="eaa4a1a1-14fe-40a7-9d1a-66b77845cf32" sshConfig="matej.racinsky@burger-hotdog-prod-022.brq2.ff.int.avast.com:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

@@ -17,6 +17,7 @@
       <sshConfig host="burger-hotdog-prod-001.brq2.ff.int.avast.com" id="20bb268a-3ae5-4002-b5e9-4c222aba4f11" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-001" nameFormat="CUSTOM" username="matej.racinsky" />
       <sshConfig host="burger-hotdog-prod-017.brq2.ff.int.avast.com" id="376a843a-394d-4530-a178-1747efb58c14" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-017" nameFormat="CUSTOM" username="matej.racinsky" />
       <sshConfig host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="8d88b5fa-d1c7-4b9b-99a4-4c89d544e62b" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-022" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="eaa4a1a1-14fe-40a7-9d1a-66b77845cf32" keyPath="C:\Users\Azathoth\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="matej.racinsky" />
     </configs>
   </component>
 </application>
