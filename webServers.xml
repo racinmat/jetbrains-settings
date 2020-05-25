@@ -120,6 +120,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f2a305c6-d6dc-4e1b-80d2-72b9bdc19850" name="matej.racinsky@burger-hotdog-prod-022.brq2.ff.int.avast.com:22 key">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-022.brq2.ff.int.avast.com" port="22" sshConfigId="eaa4a1a1-14fe-40a7-9d1a-66b77845cf32" sshConfig="matej.racinsky@burger-hotdog-prod-022.brq2.ff.int.avast.com:22 key" keyPair="true" />
+      </webServer>
     </option>
   </component>
 </application>
