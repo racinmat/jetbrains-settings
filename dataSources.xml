@@ -20,5 +20,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="PRG76 label database" uuid="059ecf7a-abcc-417f-b640-11cb1b85f21a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prg07-006.srv.int.avast.com:5432/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
