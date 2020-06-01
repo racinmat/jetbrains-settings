@@ -16,42 +16,42 @@
         </fileTransfer>
       </webServer>
       <webServer id="1a901a66-ad5e-4c58-a390-fa1db2bd4645" name="research-prg07-009" url="http://prg07-009">
-        <fileTransfer accessType="SFTP" host="prg07-009" port="22" sshConfigId="cfe1dede-11c2-45b2-8412-5a1736b85bb8" sshConfig="research-prg07-009" keyPair="true">
+        <fileTransfer accessType="SFTP" host="prg07-009.srv.int.avast.com" port="22" sshConfigId="cfe1dede-11c2-45b2-8412-5a1736b85bb8" sshConfig="research-prg07-009" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="22ab5471-3d12-4d0f-bc5b-10f653f1b7a1" name="research-prg07-002" url="http://prg07-002">
-        <fileTransfer accessType="SFTP" host="prg07-002" port="22" sshConfigId="0c865367-de37-4805-afb1-8f6b7cc702b3" sshConfig="research-prg07-002" keyPair="true">
+        <fileTransfer accessType="SFTP" host="prg07-002.srv.int.avast.com" port="22" sshConfigId="0c865367-de37-4805-afb1-8f6b7cc702b3" sshConfig="research-prg07-002" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="2e60687a-d28a-4d10-8172-4b35bb92d1ea" name="research-prg07-012" url="http://prg07-012">
-        <fileTransfer accessType="SFTP" host="prg07-012" port="22" sshConfigId="5a4eb1e1-9685-43e4-b30f-bc146e0d9845" sshConfig="research-prg07-012" keyPair="true">
+        <fileTransfer accessType="SFTP" host="prg07-012.srv.int.avast.com" port="22" sshConfigId="5a4eb1e1-9685-43e4-b30f-bc146e0d9845" sshConfig="research-prg07-012" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="d997b155-fbce-4475-9c3e-d86b7e51ff38" name="research-prg07-006" url="http://prg07-006">
-        <fileTransfer accessType="SFTP" host="prg07-006" port="22" sshConfigId="f1338745-892f-472f-9a8a-ac7f40643c12" sshConfig="research-prg07-006" keyPair="true">
+        <fileTransfer accessType="SFTP" host="prg07-006.srv.int.avast.com" port="22" sshConfigId="f1338745-892f-472f-9a8a-ac7f40643c12" sshConfig="research-prg07-006" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="0ffc2e2a-588d-4f2e-a757-e81c2edd2b12" name="tlab-hal-prod-9001" url="http://tlab-hal-prod-9001">
-        <fileTransfer accessType="SFTP" host="tlab-hal-prod-9001" port="22" sshConfigId="e493258e-98c4-4578-a776-752dc01b0449" sshConfig="tlab-hal-prod-9001" keyPair="true">
+        <fileTransfer accessType="SFTP" host="tlab-hal-prod-9001.srv.int.avast.com" port="22" sshConfigId="e493258e-98c4-4578-a776-752dc01b0449" sshConfig="tlab-hal-prod-9001" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="67167838-c5bc-4ee7-a1ad-bccde958dfaf" name="tlab-hal-prod-9002" url="http://tlab-hal-prod-9002">
-        <fileTransfer accessType="SFTP" host="tlab-hal-prod-9002" port="22" sshConfigId="f808270e-25f1-48d0-891f-f93cee47f4cd" sshConfig="tlab-hal-prod-9002" keyPair="true">
+        <fileTransfer accessType="SFTP" host="tlab-hal-prod-9002.srv.int.avast.com" port="22" sshConfigId="f808270e-25f1-48d0-891f-f93cee47f4cd" sshConfig="tlab-hal-prod-9002" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
