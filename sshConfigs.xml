@@ -2,22 +2,22 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="3.124.192.99" id="162bc26e-1a29-4fc2-a692-b5296f77d923" keyPath="E:\Projects\digital_writer\gpt2.pem" port="22" customName="aws-digital-writer" nameFormat="CUSTOM" username="ubuntu" />
-      <sshConfig host="burger-shell-stage.aa.avast.com" id="2537fc5a-94db-4d59-9ba5-47d1682629e8" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-stage" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="prg23-018.ff.avast.com" id="1c9abeb8-61e8-4729-ada7-e720214e4137" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-burger-prg23-018" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="prg07-002.srv.int.avast.com" id="0c865367-de37-4805-afb1-8f6b7cc702b3" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-prg07-002" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="prg07-006.srv.int.avast.com" id="f1338745-892f-472f-9a8a-ac7f40643c12" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-prg07-006" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="prg07-009.srv.int.avast.com" id="cfe1dede-11c2-45b2-8412-5a1736b85bb8" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-prg07-009" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="prg07-012.srv.int.avast.com" id="5a4eb1e1-9685-43e4-b30f-bc146e0d9845" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="research-prg07-012" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="tlab-hal-prod-9001.srv.int.avast.com" id="e493258e-98c4-4578-a776-752dc01b0449" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="tlab-hal-prod-9001" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="tlab-hal-prod-9002.srv.int.avast.com" id="f808270e-25f1-48d0-891f-f93cee47f4cd" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="tlab-hal-prod-9002" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="burger-shell.aa.avast.com" id="f7f16c3a-7874-4855-b068-62e875e662d6" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-prod" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="burger-hotdog-prod-004.brq2.ff.int.avast.com" id="595e2bdc-1831-4d04-ab83-f90b153075ec" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-004" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="burger-hotdog-prod-003.brq2.ff.int.avast.com" id="f661ded4-e074-433c-b843-b8c90bd29fba" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-003" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="burger-hotdog-prod-002.brq2.ff.int.avast.com" id="edafaccb-bf24-4366-97fc-6223208cbcb5" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-002" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="burger-hotdog-prod-001.brq2.ff.int.avast.com" id="20bb268a-3ae5-4002-b5e9-4c222aba4f11" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-001" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="burger-hotdog-prod-017.brq2.ff.int.avast.com" id="376a843a-394d-4530-a178-1747efb58c14" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-017" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="8d88b5fa-d1c7-4b9b-99a4-4c89d544e62b" keyPath="C:\Users\racinsky\.ssh\id_rsa.ppk" port="22" customName="burger-hotdog-prod-022" nameFormat="CUSTOM" username="matej.racinsky" />
-      <sshConfig host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="eaa4a1a1-14fe-40a7-9d1a-66b77845cf32" keyPath="C:\Users\Azathoth\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-shell-stage.aa.avast.com" id="2537fc5a-94db-4d59-9ba5-47d1682629e8" port="22" customName="burger-stage" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="prg23-018.ff.avast.com" id="1c9abeb8-61e8-4729-ada7-e720214e4137" port="22" customName="research-burger-prg23-018" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="prg07-002.srv.int.avast.com" id="0c865367-de37-4805-afb1-8f6b7cc702b3" port="22" customName="research-prg07-002" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="prg07-006.srv.int.avast.com" id="f1338745-892f-472f-9a8a-ac7f40643c12" port="22" customName="research-prg07-006" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="prg07-009.srv.int.avast.com" id="cfe1dede-11c2-45b2-8412-5a1736b85bb8" port="22" customName="research-prg07-009" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="prg07-012.srv.int.avast.com" id="5a4eb1e1-9685-43e4-b30f-bc146e0d9845" port="22" customName="research-prg07-012" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="tlab-hal-prod-9001.srv.int.avast.com" id="e493258e-98c4-4578-a776-752dc01b0449" port="22" customName="tlab-hal-prod-9001" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="tlab-hal-prod-9002.srv.int.avast.com" id="f808270e-25f1-48d0-891f-f93cee47f4cd" port="22" customName="tlab-hal-prod-9002" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-shell.aa.avast.com" id="f7f16c3a-7874-4855-b068-62e875e662d6" port="22" customName="burger-prod" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-004.brq2.ff.int.avast.com" id="595e2bdc-1831-4d04-ab83-f90b153075ec" port="22" customName="burger-hotdog-prod-004" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-003.brq2.ff.int.avast.com" id="f661ded4-e074-433c-b843-b8c90bd29fba" port="22" customName="burger-hotdog-prod-003" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-002.brq2.ff.int.avast.com" id="edafaccb-bf24-4366-97fc-6223208cbcb5" port="22" customName="burger-hotdog-prod-002" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-001.brq2.ff.int.avast.com" id="20bb268a-3ae5-4002-b5e9-4c222aba4f11" port="22" customName="burger-hotdog-prod-001" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-017.brq2.ff.int.avast.com" id="376a843a-394d-4530-a178-1747efb58c14" port="22" customName="burger-hotdog-prod-017" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="8d88b5fa-d1c7-4b9b-99a4-4c89d544e62b" port="22" customName="burger-hotdog-prod-022" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="eaa4a1a1-14fe-40a7-9d1a-66b77845cf32" port="22" nameFormat="DESCRIPTIVE" username="matej.racinsky" />
     </configs>
   </component>
 </application>
