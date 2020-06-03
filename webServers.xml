@@ -123,9 +123,6 @@
       <webServer id="f2a305c6-d6dc-4e1b-80d2-72b9bdc19850" name="matej.racinsky@burger-hotdog-prod-022.brq2.ff.int.avast.com:22 key">
         <fileTransfer accessType="SFTP" host="burger-hotdog-prod-022.brq2.ff.int.avast.com" port="22" sshConfigId="eaa4a1a1-14fe-40a7-9d1a-66b77845cf32" sshConfig="matej.racinsky@burger-hotdog-prod-022.brq2.ff.int.avast.com:22 agent" authAgent="true" />
       </webServer>
-      <webServer id="8da4876c-89ec-4992-8b22-525846e82064" name="tlab-hal-prod-9002">
-        <fileTransfer accessType="SFTP" host="tlab-hal-prod-9002.srv.int.avast.com" port="22" sshConfigId="f808270e-25f1-48d0-891f-f93cee47f4cd" sshConfig="tlab-hal-prod-9002" authAgent="true" />
-      </webServer>
     </option>
   </component>
 </application>
