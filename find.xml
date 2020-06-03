@@ -18,8 +18,8 @@
     <mask>*.ipynb</mask>
     <mask>*.py*</mask>
     <mask>*.proto</mask>
-    <mask>*.py</mask>
     <mask>*.sh</mask>
     <mask>*.jl</mask>
+    <mask>*.py</mask>
   </component>
 </application>
