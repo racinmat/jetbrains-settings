@@ -12,6 +12,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="Shell Script" />
       <mapping pattern=".bash_profile" type="Shell Script" />
       <removed_mapping ext="kts" approved="true" type="PLAIN_TEXT" />
