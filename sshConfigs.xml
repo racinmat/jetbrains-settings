@@ -20,6 +20,7 @@
       <sshConfig authType="OPEN_SSH" host="tlab-hal-prod-9002.srv.int.avast.com" id="f808270e-25f1-48d0-891f-f93cee47f4cd" port="22" customName="tlab-hal-prod-9002" nameFormat="CUSTOM" username="matej.racinsky" />
       <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-019.brq2.ff.int.avast.com" id="9ba1d7c2-0a43-4f84-9113-6c02087f6b23" port="22" customName="burger-hotdog-prod-019" nameFormat="CUSTOM" username="matej.racinsky" />
       <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-021.brq2.ff.int.avast.com" id="ed4c4128-4628-45a7-938d-8e1826859d33" port="22" customName="burger-hotdog-prod-021" nameFormat="CUSTOM" username="matej.racinsky" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-068.brq2.ff.int.avast.com" id="45f1d90b-e219-4815-a6c4-c54619327fbc" port="22" customName="burger-hotdog-prod-068" nameFormat="CUSTOM" username="matej.racinsky" />
     </configs>
   </component>
 </application>
