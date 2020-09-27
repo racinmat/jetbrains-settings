@@ -87,7 +87,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/TheIllusiveC4/ConstructsArmory.git" />
+          <option name="url" value="https://github.com/dpsanders/IntervalsJuliaCon2020.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JuliaTeX/TreeView.jl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
