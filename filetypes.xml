@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile_python" type="Dockerfile" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_github_deployment" type="PLAIN_TEXT" />
       <mapping pattern=".screenrc" type="PLAIN_TEXT" />
