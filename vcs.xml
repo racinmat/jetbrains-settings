@@ -114,6 +114,10 @@
           <option name="url" value="git@git.int.avast.com:skunk/SPMD.jl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JuliaML/MLLabelUtils.jl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects\others" />
