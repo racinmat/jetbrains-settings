@@ -25,4 +25,5 @@
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="alt f10" />
   </action>
+  <action id="context.clear" />
 </keymap>
