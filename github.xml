@@ -1,10 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="5a32bdff-7901-4b86-b182-549722c00283" name="racinmat">
-      <server useHttp="false" host="github.com" />
-    </account>
-    <account id="33ec6574-37b5-4901-a92d-43b2e86b4b5d" name="racinsky">
-      <server host="git.int.avast.com" />
+    <account id="0c8a9ee9-fd3c-4790-bbab-afd97c4ca4e3" name="racinmat">
+      <server host="github.com" />
     </account>
   </component>
 </application>
