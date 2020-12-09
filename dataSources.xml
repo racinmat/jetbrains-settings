@@ -33,5 +33,12 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://idp-gbr-prod-001.brq2.ff.int.avast.com:5432/gbr</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="XBR database - master" uuid="affb9183-4e59-40d4-8e59-8b1263468406">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>https://cml.avast.com/display/TL/4.+Using+the+xBR+database</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://idp-cuckoo-prod-001.brq2.ff.int.avast.com:5432/idp_cuckoo_br</jdbc-url>
+    </data-source>
   </component>
 </application>
