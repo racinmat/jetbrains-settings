@@ -26,5 +26,12 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://prg07-006.srv.int.avast.com:5432/labels</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="GBR database" uuid="316491d8-d92e-4c71-ae40-417e781e61fd">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>https://cml.avast.com/display/TL/4.+Using+the+xBR+database</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://idp-gbr-prod-001.brq2.ff.int.avast.com:5432/gbr</jdbc-url>
+    </data-source>
   </component>
 </application>
