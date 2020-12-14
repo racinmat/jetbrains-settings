@@ -95,6 +95,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://git.int.avast.com/skunk/teamcity-ida" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/racinmat/CQLdriver.jl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
@@ -122,7 +126,14 @@
           <option name="url" value="git@git.int.avast.com:ANT/rabbitfeeder.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-      </list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/racinmat/advent_of_code_2020.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/James-Ansley/adventofcode.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>      </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects\others" />
   </component>
