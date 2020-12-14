@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -16,7 +16,9 @@
       <mapping ext="gms" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="Shell Script" />
       <mapping pattern=".bashrc" type="Shell Script" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="kts" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
