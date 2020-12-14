@@ -1,4 +1,8 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt f9" />
@@ -11,7 +15,12 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="Console.TableResult.DeleteRows" />
   <action id="CopyPaths" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="ExpressionTypeInfo" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
@@ -25,4 +34,5 @@
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="alt f10" />
   </action>
+  <action id="context.clear" />
 </keymap>
