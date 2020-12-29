@@ -19,8 +19,23 @@
       <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-017.brq2.ff.int.avast.com" id="376a843a-394d-4530-a178-1747efb58c14" port="22" customName="burger-hotdog-prod-017" nameFormat="CUSTOM" username="matej.racinsky">
         <option name="customName" value="burger-hotdog-prod-017" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-019.brq2.ff.int.avast.com" id="9ba1d7c2-0a43-4f84-9113-6c02087f6b23" port="22" customName="burger-hotdog-prod-019" nameFormat="CUSTOM" username="matej.racinsky">
+        <option name="customName" value="burger-hotdog-prod-019" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-021.brq2.ff.int.avast.com" id="ed4c4128-4628-45a7-938d-8e1826859d33" port="22" customName="burger-hotdog-prod-021" nameFormat="CUSTOM" username="matej.racinsky">
+        <option name="customName" value="burger-hotdog-prod-021" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="056807e9-899d-4886-b5e5-f23061a90172" port="22" customName="burger-hotdog-prod-022" nameFormat="CUSTOM" username="matej.racinsky">
+        <option name="customName" value="burger-hotdog-prod-022" />
+      </sshConfig>
       <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-029.brq2.ff.int.avast.com" id="8d88b5fa-d1c7-4b9b-99a4-4c89d544e62b" port="22" customName="burger-hotdog-prod-029" nameFormat="CUSTOM" username="matej.racinsky">
         <option name="customName" value="burger-hotdog-prod-029" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-067.brq2.ff.int.avast.com" id="45f1d90b-e219-4815-a6c4-c54619327fbc" port="22" customName="burger-hotdog-prod-067" nameFormat="CUSTOM" username="matej.racinsky">
+        <option name="customName" value="burger-hotdog-prod-067" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-068.brq2.ff.int.avast.com" id="45b1edbe-ea92-4f38-a026-43c157c2db55" port="22" customName="burger-hotdog-prod-068" nameFormat="CUSTOM" username="matej.racinsky">
+        <option name="customName" value="burger-hotdog-prod-068" />
       </sshConfig>
       <sshConfig authType="OPEN_SSH" host="burger-shell.aa.avast.com" id="f7f16c3a-7874-4855-b068-62e875e662d6" port="22" customName="burger-prod" nameFormat="CUSTOM" username="matej.racinsky">
         <option name="customName" value="burger-prod" />
@@ -50,20 +65,8 @@
       <sshConfig authType="OPEN_SSH" host="tlab-hal-prod-9002.srv.int.avast.com" id="f808270e-25f1-48d0-891f-f93cee47f4cd" port="22" customName="tlab-hal-prod-9002" nameFormat="CUSTOM" username="matej.racinsky">
         <option name="customName" value="tlab-hal-prod-9002" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-019.brq2.ff.int.avast.com" id="9ba1d7c2-0a43-4f84-9113-6c02087f6b23" port="22" customName="burger-hotdog-prod-019" nameFormat="CUSTOM" username="matej.racinsky">
-        <option name="customName" value="burger-hotdog-prod-019" />
-      </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-021.brq2.ff.int.avast.com" id="ed4c4128-4628-45a7-938d-8e1826859d33" port="22" customName="burger-hotdog-prod-021" nameFormat="CUSTOM" username="matej.racinsky">
-        <option name="customName" value="burger-hotdog-prod-021" />
-      </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-067.brq2.ff.int.avast.com" id="45f1d90b-e219-4815-a6c4-c54619327fbc" port="22" customName="burger-hotdog-prod-067" nameFormat="CUSTOM" username="matej.racinsky">
-        <option name="customName" value="burger-hotdog-prod-067" />
-      </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-068.brq2.ff.int.avast.com" id="45b1edbe-ea92-4f38-a026-43c157c2db55" port="22" customName="burger-hotdog-prod-068" nameFormat="CUSTOM" username="matej.racinsky">
-        <option name="customName" value="burger-hotdog-prod-068" />
-      </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-022.brq2.ff.int.avast.com" id="056807e9-899d-4886-b5e5-f23061a90172" port="22" customName="burger-hotdog-prod-022" nameFormat="CUSTOM" username="matej.racinsky">
-        <option name="customName" value="burger-hotdog-prod-022" />
+      <sshConfig authType="OPEN_SSH" host="burger-hotdog-prod-058.brq2.ff.int.avast.com" id="4f4b5d60-b55b-4c74-a6a4-1c2807795031" port="22" customName="burger-hotdog-prod-058" nameFormat="CUSTOM" username="matej.racinsky">
+        <option name="customName" value="burger-hotdog-prod-058" />
       </sshConfig>
     </configs>
   </component>
