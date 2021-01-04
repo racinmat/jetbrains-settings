@@ -1121,6 +1121,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.r">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1148,6 +1156,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rmd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rnc">
           <value>
             <plugin>
@@ -1163,6 +1179,22 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rpluginskeletonfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rprofile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
             </plugin>
           </value>
         </entry>
@@ -2009,6 +2041,11 @@
                   <entry key="PythonConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="R">
+                    <value>
+                      <FeaturePluginData displayName="R" pluginName="R Language for IntelliJ" pluginId="R4Intellij" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
