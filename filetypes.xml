@@ -4,9 +4,9 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Dockerfile_python" type="Dockerfile" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_github_deployment" type="PLAIN_TEXT" />
       <mapping pattern=".screenrc" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
