@@ -142,6 +142,10 @@
           <option name="url" value="git@git.int.avast.com:skunk/Yarmark.jl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.int.avast.com:racinsky/mirror-list.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects\others" />
