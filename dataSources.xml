@@ -40,5 +40,12 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://idp-cuckoo-prod-001.brq2.ff.int.avast.com:5432/idp_cuckoo_br</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="idp_cuckoo_br@idp-cuckoo-prod-001.brq2.ff.int.avast.com" uuid="5d6bcefb-b746-4799-ba1c-6a4e6e6488a5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://idp-cuckoo-prod-001.brq2.ff.int.avast.com:5432/idp_cuckoo_br</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
