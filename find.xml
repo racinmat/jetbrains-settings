@@ -18,7 +18,7 @@
     <mask>*.proto</mask>
     <mask>*.jl</mask>
     <mask>*.sh</mask>
-    <mask>*.py</mask>
     <mask>*.php</mask>
+    <mask>*.py</mask>
   </component>
 </application>
