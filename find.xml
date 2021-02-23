@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +19,9 @@
     <mask>*.ipynb</mask>
     <mask>*.py*</mask>
     <mask>*.proto</mask>
-    <mask>*.jl</mask>
     <mask>*.sh</mask>
-    <mask>*.py</mask>
     <mask>*.php</mask>
+    <mask>*.py</mask>
+    <mask>*.jl</mask>
   </component>
 </application>
