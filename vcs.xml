@@ -171,11 +171,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/JuliaLang/julia.git" />
+          <option name="url" value="git@git.int.avast.com:labio/teamcity-ida.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:racinmat/moviepy.git" />
+          <option name="url" value="git@git.int.avast.com:ai-research/teamcity.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
