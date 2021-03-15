@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping pattern="Dockerfile_*" type="Dockerfile" />
       <mapping pattern="Dockerfile_python" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
