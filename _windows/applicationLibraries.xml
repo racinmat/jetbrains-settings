@@ -2,9 +2,8 @@
   <component name="libraryTable">
     <library name="Bundled Protobuf Distribution">
       <CLASSES />
-      <SOURCES>
-        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
-      </SOURCES>
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>
