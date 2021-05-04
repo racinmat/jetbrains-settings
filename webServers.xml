@@ -132,6 +132,13 @@
       <webServer id="4f8ff268-a8ee-48ef-b73c-c8ba9eae19eb" name="burger-hotdog-prod-058">
         <fileTransfer accessType="SFTP" host="burger-hotdog-prod-058.brq2.ff.int.avast.com" port="22" sshConfigId="4f4b5d60-b55b-4c74-a6a4-1c2807795031" sshConfig="burger-hotdog-prod-058" authAgent="true" />
       </webServer>
+      <webServer id="ec799d14-9c01-4236-9226-06443c3dd358" name="burger-hotdog-prod-019-mill-2" url="http://burger-hotdog-prod-019.brq2.ff.int/">
+        <fileTransfer accessType="SFTP" host="burger-hotdog-prod-019.brq2.ff.int.avast.com" port="22" sshConfigId="9ba1d7c2-0a43-4f84-9113-6c02087f6b23" sshConfig="burger-hotdog-prod-019" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
