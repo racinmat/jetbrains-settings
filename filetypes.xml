@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping pattern=".env" type=".env file" />
+      <mapping pattern=".env" type=".env file" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Dockerfile_*" type="Dockerfile" />
       <mapping pattern="Dockerfile_python" type="Dockerfile" />
@@ -21,7 +21,6 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="Shell Script" />
       <mapping pattern=".bashrc" type="Shell Script" />
-      <mapping pattern=".env" type="TOML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="kts" approved="true" type="PLAIN_TEXT" />
