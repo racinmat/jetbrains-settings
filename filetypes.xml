@@ -18,6 +18,7 @@
       <mapping ext="gms" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping pattern="*.py.web" type="Python" />
       <mapping pattern=".bash_profile" type="Shell Script" />
       <mapping pattern=".bashrc" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
