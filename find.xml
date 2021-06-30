@@ -16,12 +16,12 @@
     <mask>*.ipynb</mask>
     <mask>*.py*</mask>
     <mask>*.proto</mask>
-    <mask>*.sh</mask>
     <mask>*.php</mask>
     <mask>*.jl</mask>
-    <mask>*.md</mask>
-    <mask>*.py</mask>
     <mask>*.yaml</mask>
     <mask>*.toml</mask>
+    <mask>*.sh</mask>
+    <mask>*.md</mask>
+    <mask>*.py</mask>
   </component>
 </application>

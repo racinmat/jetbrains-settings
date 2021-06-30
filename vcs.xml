@@ -239,7 +239,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.int.avast.com:racinsky/teamcity-ida.git" />
+          <option name="url" value="git@git.int.avast.com:skunk/Laser.jl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.int.avast.com:skunk/dataset-distribution.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/racinmat/URIs.jl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.int.avast.com:viruslab-research/odinbox.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
